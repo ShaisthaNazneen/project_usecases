@@ -1,0 +1,15 @@
+Account created for Shaistha | Balance: 1000.0
+Deposited 1000.0 | Balance: 2000.0
+Account created for Shaistha | Balance: 1000.0
+Deposited 8000.0 | Balance: 9000.0
+Withdrawn 8990.0 | Balance: 10.0
+FAILED Withdrawal 9000.0 | Reason: Insufficient Balance
+Account created for Shaistha Balance: 1000.0
+Deposited 1000.0 Balance: 2000.0
+Withdrawn 80.0 | Balance: 1920.0
+Deposited 9000.0 Balance: 10920.0
+Deposited 900.0 Balance: 11820.0
+Withdrawn 879.0 | Balance: 10941.0
+Deposited 8000.0 Balance: 18941.0
+Withdrawn 8900.0 | Balance: 10041.0
+Withdrawn 890.0 | Balance: 9151.0
